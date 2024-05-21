@@ -1,4 +1,4 @@
-### Hellou! Eu sou o Erasmo Monteiro, estudante de Análise e Desenvolvimento de Sistemas 👋
+### Hellou! Eu sou o Erasmo Monteiro, analista de sistemas 👋
 
 ##
 <div align="center">
